@@ -1,0 +1,6 @@
+  ./analyse.sh -n                   # Affiche le nombre d'utilisateurs dans /etc/passwd.
+  ./analyse.sh -p                   # Affiche les répertoires personnels des utilisateurs.
+  ./analyse.sh -G sudo              # Affiche les utilisateurs ayant le groupe "sudo" comme groupe primaire.
+  ./analyse.sh -t user              # Affiche le type de l'utilisateur "user".
+  ./analyse.sh -h                   # Affiche cette aide détaillée.
+  ./analyse.sh -v                   # Affiche les noms des auteurs et la version du code.
