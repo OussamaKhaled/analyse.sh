@@ -2,7 +2,7 @@
 
 # Fonction pour afficher l'usage du script
 show_usage() {
-    echo "analyse.sh: [-h] [-v] [-t] [-m] [-g] [-v] [-n] [-p] user.."
+    echo "analyse.sh: [-h] [-v] [-t] [-m] [-g] [-v] [-n] [-p] user..."
 }
 
 # Fonction pour afficher l'aide détaillée à partir d'un fichier texte
